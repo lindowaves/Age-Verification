@@ -1,2 +1,2 @@
-- This program determines if a user is 18 or older.
-- If they are, they are allowed into a Party.
+-👮🏽‍♂️ This program determines if a user is 18 or older.
+- If they are, they are allowed into a Party.💃
