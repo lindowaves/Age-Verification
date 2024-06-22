@@ -6,7 +6,7 @@ year = int(input("Enter Year Of Birth: "))
 # 2. Determine the user's age
 age = (2024 - year)
 
-# 3. Determine if the user meets the age requirment and Display thr result.
+# 3. Verify if the user meets the age requirment and Display the result.
 if age == 18 or age >= 18:
     print("Congrats, You Are Old Enough")
 elif age <= 18:
